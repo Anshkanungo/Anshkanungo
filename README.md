@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshkanungo" alt="anshkanungo" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack**
+- 🔭 I’m currently working on **Full Stack And AI/ML**
 
-- 🌱 I’m currently learning **UI Development**
+- 🌱 I’m currently learning **Data Pipelining**
 
 - 📫 How to reach me **anshkanungo17@gmail.com**
 
